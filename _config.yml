@@ -4,12 +4,6 @@ description: "youseiushida's blog"
 baseurl: "" # サブディレクトリがある場合のみ設定（GitHub Pagesメインサイトなら空文字）
 url: "https://youseiushida.github.io" # GitHub Pagesの場合
 
-# Author settings
-author:
-  name: "牛田陽晟 (Yousei Ushida)"
-  github: "youseiushida"
-  twitter: "_____uxoxu__" # 任意
-
 # Build settings
 markdown: kramdown
 highlighter: rouge

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "youseiushida"
+nav_exclude: true
 ---
 
 # Welcome to my blog!
