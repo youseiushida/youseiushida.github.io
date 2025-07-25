@@ -1,6 +1,6 @@
 # Site settings
-title: "youseiushida.dev"
-description: "電気電子工学・リバースエンジニアリング・LLM開発・OSS貢献の技術ブログ"
+title: "youseiushida"
+description: "youseiushida's blog"
 baseurl: "" # サブディレクトリがある場合のみ設定（GitHub Pagesメインサイトなら空文字）
 url: "https://youseiushida.github.io" # GitHub Pagesの場合
 

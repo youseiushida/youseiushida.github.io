@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "youseiushida.dev"
+title: "youseiushida"
 ---
 
 # Welcome to my blog!
