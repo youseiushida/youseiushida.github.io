@@ -82,11 +82,6 @@ repository: youseiushida/youseiushida.github.io
 # GitHub Pages specific
 github: [metadata]
 
-# Custom variables（カスタム変数）
-google_analytics: "G-XXXXXXXXXX" # Google Analytics ID（任意）
-disqus_shortname: "your-disqus-shortname" # Disqusコメント（任意）
-
 # Social links
 social_links:
   github: youseiushida
-  twitter: _____uxoxu__
