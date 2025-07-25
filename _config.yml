@@ -1,0 +1,92 @@
+# Site settings
+title: "youseiushida.dev"
+description: "電気電子工学・リバースエンジニアリング・LLM開発・OSS貢献の技術ブログ"
+baseurl: "" # サブディレクトリがある場合のみ設定（GitHub Pagesメインサイトなら空文字）
+url: "https://youseiushida.github.io" # GitHub Pagesの場合
+
+# Author settings
+author:
+  name: "牛田陽晟 (Yousei Ushida)"
+  github: "youseiushida"
+  twitter: "_____uxoxu__" # 任意
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima # GitHub Pages標準テーマ
+
+# Kramdown settings (数式対応)
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  input: GFM # GitHub Flavored Markdown
+  hard_wrap: false
+
+# MathJax設定（数式表示用）
+mathjax: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Collections（任意：プロジェクト紹介など）
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Include files
+include:
+  - _pages
+
+# Timezone
+timezone: Asia/Tokyo
+
+# Encoding
+encoding: utf-8
+
+# Repository (GitHub連携用)
+repository: youseiushida/youseiushida.github.io
+
+# GitHub Pages specific
+github: [metadata]
+
+# Custom variables（カスタム変数）
+google_analytics: "G-XXXXXXXXXX" # Google Analytics ID（任意）
+disqus_shortname: "your-disqus-shortname" # Disqusコメント（任意）
+
+# Social links
+social_links:
+  github: youseiushida
+  twitter: _____uxoxu__
