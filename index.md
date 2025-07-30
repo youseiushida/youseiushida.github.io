@@ -9,7 +9,11 @@ Hie
 
 ## About
 
-me and my works
+This blog is written about Dopamine-driven Electrical and Electronic Engineering by Yousei Ushida.
+
+Me and my works
+
+
 
 ## Contact
 

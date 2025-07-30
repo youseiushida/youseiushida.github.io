@@ -1,5 +1,5 @@
 # Site settings
-title: "Dopamine-driven Electrical and Electronic Engineering"
+title: "DDEEE"
 description: "Dopamine-driven Electrical and Electronic Engineering by Yousei Ushida"
 baseurl: "" # サブディレクトリがある場合のみ設定（GitHub Pagesメインサイトなら空文字）
 url: "https://youseiushida.github.io" # GitHub Pagesの場合
