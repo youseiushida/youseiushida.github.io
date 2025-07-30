@@ -1,6 +1,6 @@
 # Site settings
-title: "youseiushida"
-description: "youseiushida's blog"
+title: "Dopamine-driven Electrical and Electronic Engineering"
+description: "Dopamine-driven Electrical and Electronic Engineering by Yousei Ushida"
 baseurl: "" # サブディレクトリがある場合のみ設定（GitHub Pagesメインサイトなら空文字）
 url: "https://youseiushida.github.io" # GitHub Pagesの場合
 
